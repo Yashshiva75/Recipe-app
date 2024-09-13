@@ -171,7 +171,8 @@
             margin: 10px;
         }
         header nav form {
-            width: 50%;
+            width: 30vw;
+            display: grid;
             margin-top: 10px;
             height: 14px;
         }

@@ -35,8 +35,9 @@
     button [type="submit"] {
         border: none;
         font-size: 18px;
-        padding: 10px;
-        border-radius: 4px;
+        padding: 6px;
+        border-radius: none;
+        outline: none;
     }
     
     form button {
@@ -172,7 +173,7 @@
         }
         header nav form {
             width: 90px;
-            display: grid;
+            text-align: center;
             margin-top: 10px;
             height: 14px;
         }
